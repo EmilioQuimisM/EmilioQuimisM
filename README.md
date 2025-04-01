@@ -10,7 +10,11 @@
 - 📉 **Excel** (Macros, Power Query)  
 - ☁️ **Google Cloud & BigQuery**
 <img  alt="python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img  alt="powerbi" src ="https://img.shields.io/badge/PowerBI-14354C?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+<img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+
+
 ## 🌍 Conectemos  
 💼 [LinkedIn](https://www.linkedin.com/in/emilio-andres-quimis-muentes-569565196)  
 📧 [Email](mailto:emilioqm89@gmail.com)    
