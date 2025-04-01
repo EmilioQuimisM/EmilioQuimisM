@@ -10,15 +10,9 @@
 - 📉 **Excel** (Macros, Power Query)  
 - ☁️ **Google Cloud & BigQuery**  
 
-## 📜 Certificaciones  
-📌 **Microsoft Certified: Power BI Data Analyst**  
-📌 **Google Data Analytics Professional Certificate**  
-📌 **AWS Certified Data Analytics**  
-
 ## 🌍 Conectemos  
-💼 [LinkedIn](https://www.linkedin.com)  
-📧 [Email](mailto:tuemail@example.com)  
-📝 [Portafolio](https://tusitioweb.com)  
+💼 [LinkedIn](www.linkedin.com/in/emilio-andres-quimis-muentes-569565196)  
+📧 [Email](mailto:emilioqm89@gmail.com)    
 
 ---
 
