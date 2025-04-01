@@ -8,10 +8,11 @@
 - 🐍 **Python**  
 - 🗄️ **SQL & Bases de Datos**  
 - 📉 **Excel** (Macros, Power Query)  
-- ☁️ **Google Cloud & BigQuery**  
+- ☁️ **Google Cloud & BigQuery**
+- <img  alt="python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 
 ## 🌍 Conectemos  
-💼 [LinkedIn](www.linkedin.com/in/emilio-andres-quimis-muentes-569565196)  
+💼 [LinkedIn](https://www.linkedin.com/in/emilio-andres-quimis-muentes-569565196)  
 📧 [Email](mailto:emilioqm89@gmail.com)    
 
 ---
