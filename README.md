@@ -4,19 +4,10 @@
 
 ## 💼 Habilidades y Herramientas  
 🚀 Trabajo con las siguientes tecnologías:  
-- 📊 **Power BI**  
-- 🐍 **Python**  
-- 🗄️ **SQL & Bases de Datos**  
-- 📉 **Excel** (Macros, Power Query)  
-- ☁️ **Google Cloud & BigQuery**
 <img  alt="python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Microsoft%20Power%20BI&logoColor=black"/>
 <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-
-
-
-
 
 ## 🌍 Conectemos  
 💼 [LinkedIn](https://www.linkedin.com/in/emilio-andres-quimis-muentes-569565196)  
