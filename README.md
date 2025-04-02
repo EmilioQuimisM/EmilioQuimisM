@@ -11,7 +11,7 @@
 
 ## Trabajos 
 <p align="center">
-  <img src=""C:\Users\emili\OneDrive\Escritorio\Proyecto DARSHDOOR\Captura de pantalla 2025-03-19 101543.png"" height="230"/>
+  <img src=""https://drive.google.com/file/d/17x5OjohjKLTsfWX2mCQ4RuslTS8KzpMt/view?usp=drive_link"" height="230"/>
 
 ## 🌍 Conectemos    
 <a href="mailto:emilioqm89@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
