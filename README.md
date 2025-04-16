@@ -1,4 +1,4 @@
-## 👨‍💻 ECONOMIST / BUSINESS INTELLIGENCE / BUSINESS DATA ANALYST  
+## 👨🏽‍💻 ECONOMIST / BUSINESS INTELLIGENCE / BUSINESS DATA ANALYST  
 
 ¡Hola! Soy Emilio Quimis 👋, Economista proactivo, estudiante del Bootcamp Business Data Analyst de la ESPOL, con experiencia en datos en entidades públicas como privadas, con buenas propuestas de innovación y sostenibilidad que se pueden adaptar a cualquier necesidad. De aprendizaje rápido y constante, responsable y dedicado con el trabajo. Con enfoque en los datos y la importancia de estos en cualquier ámbito social o económico que exista, lo que posibilita que mis trabajos sean integrales y orientados a mantener el bienestar de las personas.
 
