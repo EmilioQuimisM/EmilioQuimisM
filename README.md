@@ -2,7 +2,7 @@
 
 ¡Hola! Soy Emilio Quimis 👋, Economista proactivo, estudiante del Bootcamp Business Data Analyst de la ESPOL, con experiencia en datos en entidades públicas como privadas, con buenas propuestas de innovación y sostenibilidad que se pueden adaptar a cualquier necesidad. De aprendizaje rápido y constante, responsable y dedicado con el trabajo. Con enfoque en los datos y la importancia de estos en cualquier ámbito social o económico que exista, lo que posibilita que mis trabajos sean integrales y orientados a mantener el bienestar de las personas.
 
-## 💼 Habilidades
+## 💼 Habilidades y Herramientas
 🚀 Trabajo con las siguientes tecnologías:  
 <img  alt="python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Microsoft%20Power%20BI&logoColor=black"/>
