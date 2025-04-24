@@ -34,3 +34,26 @@
 ---
 
 ⭐ ¡Gracias por visitar mi perfil! No dudes en conectar conmigo para compartir ideas sobre análisis de datos e inteligencia de negocios. 🚀
+
+
+##  👨🏽‍💼 Transformando sospechas en decisiones con Machine Learning 👩🏽‍💼
+Predicción de fraude en reclamos de seguros
+
+En el año 2023, una aseguradora de Colombia registró más de 24.000 fraudes, sumando pérdidas de más de 62 millones de dólares. Si pensamos que cada fraude costó más de $2.500 en promedio
+<div align="center"> ¿Cómo podemos anticiparnos a estos eventos antes de que ocurran? </div>
+
+
+## 🌍 Conectemos  
+# Miguel Briones👨🏽‍💻
+<a href="mailto:emilioqm89@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/emilio-andres-quimis-muentes-569565196" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+# Jemina Moreira 👩🏽‍💻
+<a href="mailto:emilioqm89@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/emilio-andres-quimis-muentes-569565196" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+# Emilio Quimis 👨🏽‍💻
+<a href="mailto:emilioqm89@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/emilio-andres-quimis-muentes-569565196" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+# Juan Palacios 👨🏽‍💻
+<a href="mailto:emilioqm89@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/emilio-andres-quimis-muentes-569565196" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+
