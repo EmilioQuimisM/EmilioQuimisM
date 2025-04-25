@@ -42,18 +42,38 @@ Predicción de fraude en reclamos de seguros
 En el año 2023, una aseguradora de Colombia registró más de 24.000 fraudes, sumando pérdidas de más de 62 millones de dólares. Si pensamos que cada fraude costó más de $2.500 en promedio
 <div align="center"> ¿Cómo podemos anticiparnos a estos eventos antes de que ocurran? </div>
 
+## Implementación en el Negocio
+<div align="center"> Propuesta  </div>
+El modelo CatBoost se integraría en el sistema de gestión de reclamaciones de la aseguradora. Cada nueva reclamación sería evaluada por el modelo en tiempo real o por lotes periódicos.
+
+<div align="center"> Justificación </div>
+
+<div align="center"> Eficiencia, Reducción de Pérdidas y Prácticas Similares
+</div>
+
+
+## Conclusiones y Recomendaciones
+<p align="center"> <div align="center"> Conclusión </div> </p>
+ El proyecto demostró la viabilidad de utilizar un modelo de machine learning (CatBoost) para la detección de fraudes en seguros de autos, logrando un alto recall en la identificación de casos fraudulentos y un potencial impacto económico positivo significativo.
+<p align="center"> <div align="center"> Recomendaciones </div> </p>
+Explorar técnicas más avanzadas para el manejo de desbalance de clases (ej., algoritmos sensibles al costo, generación de datos sintéticos más sofisticada).
+Investigar la incorporación de otras fuentes de datos relevantes que puedan mejorar la capacidad predictiva del modelo.
+Experimentar con arquitecturas de modelos más complejas o ensambles de modelos que puedan mejorar el equilibrio entre precisión y recall.
+Invertir en la recopilación y el almacenamiento de datos más detallados y diversos sobre los asegurados y las reclamaciones.
+Establecer un proceso claro para la revisión y retroalimentación de los casos clasificados como de alto riesgo para mejorar continuamente el modelo y comprender mejor los patrones de fraude.
+Evaluar el costo-beneficio de ajustar el umbral de clasificación para equilibrar la detección de fraudes con el costo de los falsos positivos. </div> </p>
 
 ## 🌍 Conectemos  
 # Miguel Briones👨🏽‍💻
 <a href="mailto:emilioqm89@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/emilio-andres-quimis-muentes-569565196" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-# Jemina Moreira 👩🏽‍💻
-<a href="mailto:emilioqm89@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/emilio-andres-quimis-muentes-569565196" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+# Jemima Moreira 👩🏽‍💻
+<a href="mailto:jhemy321@hotmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/jemimamoreiraguzman/" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 # Emilio Quimis 👨🏽‍💻
 <a href="mailto:emilioqm89@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/emilio-andres-quimis-muentes-569565196" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 # Juan Palacios 👨🏽‍💻
-<a href="mailto:emilioqm89@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/emilio-andres-quimis-muentes-569565196" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+<a href="mailto:juanpadani05@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/juan-carlos-palacios-sachez-6a748240/" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 
